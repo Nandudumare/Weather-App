@@ -4,7 +4,7 @@
 This was a Assignment at Masai School. Weather apps enable users to get instant alerts regarding weather conditions. Weather apps are the simplest method to know about the updates of the upcoming weather.
 </p>
 
-* [Click Here](https://epic-kalam-487944.netlify.app/"Whather-App") to view the deployed website.
+* [Click Here](https://epic-kalam-487944.netlify.app/) to view the deployed website.
 
 <p>
 Weather is something everybody deals with, and accurate data of it like what is coming can help users to make inform decisions.
